@@ -8,4 +8,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 
-Veja o projeto <a href="https://vrmtdev.github.io/mylinks/" target="_blank">AQUI</a>
+Veja o projeto <a href="https://vrmtdev.github.io/pokedex/" target="_blank">AQUI</a>
